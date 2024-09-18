@@ -5,6 +5,7 @@
 !test/test_data/*.p
 *.swp
 .coverage
+.tar.gz
 
 # folder
 build/*
@@ -15,5 +16,6 @@ neuralhydrology.egg-info/*
 runs/
 configs/*
 .ipynb_checkpoints/
+data/
 data/*
 docs/build/*
